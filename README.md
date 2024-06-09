@@ -2,7 +2,7 @@
 
 * Overview
 
-    The National Geographic Articles App is a React and Vite-based application that offers a collection of articles from the National Geogr*aphic magazine.     The app includes both an admin interface and a user. 
+    The National Geographic Articles App is a React and Vite-based application that offers a collection of articles from the National Geographic magazine.     The app includes both an admin interface and a user. 
 
 * interface:
     Admin Interface: Allows administrators to create, edit, and delete articles using the QuillEditor.
