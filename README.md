@@ -46,13 +46,13 @@
       Science
       Environment
 
-  * Usage:
+* Usage:
     
      Admin Interface:  
-        * Admins can access the admin interface to manage articles:
-          Create Article: Fill in the form and use the QuillEditor to create new articles.
-        * Edit Article: Modify existing articles using the QuillEditor.
-        * Delete Article: Remove articles from the collection.
+         Admins can access the admin interface to manage articles:
+         Create Article: Fill in the form and use the QuillEditor to create new articles.
+         Edit Article: Modify existing articles using the QuillEditor.
+         Delete Article: Remove articles from the collection.
     
     User Interface:
       Users can read articles by navigating through the categories:
